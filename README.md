@@ -1,4 +1,4 @@
-画像をコピペ
+<img width="508" alt="image" src="https://user-images.githubusercontent.com/99580997/223558261-786234a9-6099-4117-a5fa-e093c762c2ab.png">
 
 # compornent（共通部品）
 - 虫眼鏡アイコンをhtml/cssで作成。
